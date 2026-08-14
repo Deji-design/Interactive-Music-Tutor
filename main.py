@@ -43,8 +43,6 @@ def note_intervals () :
 
 
 
-def musical_terminologies () :
-    print ("Lesson coming soon")
 
 
 
