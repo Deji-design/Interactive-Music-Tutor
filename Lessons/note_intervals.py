@@ -1,2 +1,2 @@
 def note_intervals():
-    print("Lesson coming soon!")
+    print("Lesson coming soon!")    
