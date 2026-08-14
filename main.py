@@ -1,33 +1,5 @@
 # All predefined functions 
 
-
-
-
-
-
-def minor_scales () :
-    print (" Lesson coming soon")
-
-
-
-
-
-def note_intervals () :
-    print ("Lesson coming soon")  
-
-
-
-
-
-
-def musical_terminologies () :
-    print ("Lesson coming soon")
-
-
-
-
-
-
 def main() :
 # Introduction for user
     print("Welcome")
