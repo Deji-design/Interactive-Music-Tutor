@@ -1,8 +1,6 @@
-# All predefined functions 
 
-
-
-
+from Lessons.major_scales import major_scales
+from Lessons.musical_terminologies import musical_terminologies
 
 
 def minor_scales () :
