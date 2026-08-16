@@ -1,3 +1,10 @@
+
+
+from Lessons.major_scales import major_scales
+from Lessons.musical_terminologies import musical_terminologies
+from Lessons.minor_scales import minor_scales
+from Lessons.note_intervals import note_intervals
+
 # All predefined functions 
 
 def main() :
