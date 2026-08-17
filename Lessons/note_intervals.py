@@ -39,7 +39,7 @@ D) Perfect 4th
 Hint: First count the letter names: C → D = ?
 Let's begin.""")
 
-answer = input ("Write your choice option here: ")
+    answer = input ("Write your choice option here: ")
     if answer == "A" :
         print ("Correct, C → D is a Major 2nd")
     elif answer == "B" :
